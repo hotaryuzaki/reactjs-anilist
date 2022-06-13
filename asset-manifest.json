@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/reactjs-anilist/static/css/main.57773b99.css",
-    "main.js": "/reactjs-anilist/static/js/main.11105bdf.js",
+    "main.js": "/reactjs-anilist/static/js/main.125e2f87.js",
     "static/js/787.147b8a08.chunk.js": "/reactjs-anilist/static/js/787.147b8a08.chunk.js",
     "index.html": "/reactjs-anilist/index.html",
     "main.57773b99.css.map": "/reactjs-anilist/static/css/main.57773b99.css.map",
-    "main.11105bdf.js.map": "/reactjs-anilist/static/js/main.11105bdf.js.map",
+    "main.125e2f87.js.map": "/reactjs-anilist/static/js/main.125e2f87.js.map",
     "787.147b8a08.chunk.js.map": "/reactjs-anilist/static/js/787.147b8a08.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.57773b99.css",
-    "static/js/main.11105bdf.js"
+    "static/js/main.125e2f87.js"
   ]
 }
